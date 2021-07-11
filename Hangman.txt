@@ -1,0 +1,9 @@
+python
+vizag
+bangalore
+kolkata
+jamshedpur
+hyderbad
+guntur
+mumbai
+chennai
